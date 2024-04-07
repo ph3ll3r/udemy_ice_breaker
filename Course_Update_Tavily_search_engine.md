@@ -1,4 +1,4 @@
-# New Educational Announcement 
+# New Educational Announcement as of April 7, 2024
  
 ### Hi Peter, an announcement has been made from Eden, instructor of LangChain- Develop LLM powered applications with LangChain. 
 
